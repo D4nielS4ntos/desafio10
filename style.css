@@ -15,7 +15,7 @@
     --shadow: rgba(0, 0, 0, 0.607);
     --background_green: #3c963257;
     --painel: rgb(127, 218, 127);
-    --min-width: 320px;
+    --min-width: 300px;
     --max-width: 900px;
 }
 
@@ -40,7 +40,7 @@ header > article {
 
 h1#título {
     color: white;
-    font-family: 'BebasKai';
+    font-family: 'BebasKai', 'Times New Roman', Times, serif;
     font-size: 1.8em;
     text-shadow: 1px 1px 1px var(--shadow);
 }
